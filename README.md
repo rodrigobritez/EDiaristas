@@ -3,7 +3,7 @@
 <b>E-Diaristas</b> is a service created to establish the link between day workers and clients who are looking for this type of work
 
 <center>
-<img width="200px" src="docs/images/icon.png"/>
+<img width="200px" src="docs/images/logo.svg"/>
 </center>
 
 <br />
