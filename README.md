@@ -29,4 +29,3 @@ As a <b>administrator</b>, I would like to ban day works who didn't follow the r
 </center>
 
 
-## Schema
