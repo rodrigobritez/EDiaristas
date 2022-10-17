@@ -25,7 +25,7 @@ As a <b>administrator</b>, I would like to ban day works who didn't follow the r
 ## Diagram
 
 <center>
-<img width="100%" src="docs/images/entities.png"/>
+<img width="50%" src="docs/images/entities.png"/>
 </center>
 
 
